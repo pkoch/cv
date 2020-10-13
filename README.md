@@ -1,14 +1,14 @@
 # Paulo Köch
-Portuguese citizen, currently living in Porto. paulo.koch@gmail.com, +351 934 902 555, http://linkedin.com/in/pkoch.
+Portuguese citizen, currently living in Porto. paulo.koch@gmail.com, +351 934 902 555, [https://github.com/pkoch/cv].
 
-Hi there! 👋 I'm trying out a different approach to my CV/resumé. Instead of just throwing you into a sea of titles and and keywords, I'd like to try a more prose-like approach. It won't be a letter, but it'll give me more space to shine through, we'll pre-wire a good chunk of the customary initial conversations, and (hopefully) be a break from the humdrum.
+Hi there! 👋 I'm trying out a different approach to my CV/resumé. Instead of embarking you into a sea of titles and and keywords, I'd like to try a more prose-like approach. It won't be a letter, but it'll give me more space to shine through, we'll pre-wire a good chunk of the customary initial conversations, and (hopefully) be a break from the humdrum.
 
-If you're in a rush, the [skill summary](#skill-summary) will suffice. If the classic CV experience is desired, **you can start at [professional history](#professional-history) and scan just for the bold parts**.
+It will be thorougher than usual, so don't be afraid to skip over any part that doesn't grab your attention. If you're in a rush, the [skill summary](#skill-summary) will suffice. If the classic CV experience is desired, **you can start at [professional history](#professional-history) and scan just for the bold parts**.
 
 # Skill summary
 **I have 5+ years of experience as an engineering manager.** I use processes (Scrum, Kanban) to set up baseline boundaries, let people explore, but keep herding them back to an effective trajectory, especially on scope. I give behavioural feedback as soon as possible. I do heartbeat-like technical check-ups (10 minutes every few days, depending on seniority/challenge, ideally async through code/doc reviews). I do 1:1s on larger cycle (between two weeks and a month). Super comfortable executing all other aspects (hiring, performance reviews, career progression, training, role and team structuring, etc).
 
-**I'm a seasoned web developer.** I feel most confortable on the backend (many years of experience with Ruby/Rails and Python/Django, and a few of microservices) but I'm also fond of front-end (a few years of bare Javacript and React). Comfortable with SQL (PostgreSQL, MySQL; with replication) and other data stores (Cassandra, S3). I dislike, but can cope with, painting on the screen (CSS, SVG). Very comfortable designing and building distributed systems (CAP, eventual consistency, MapReduce; Kafka, ZooKeeper, SNS, SQS, etc). I prefer a data centric approach to problems over OOP, and functions over design patterns.
+**I'm a seasoned web developer.** I feel most confortable on the backend (many years of experience with Ruby/Rails and Python/Django, and a few of microservices) but I'm also fond of front-end (a few years of bare Javacript and React). Comfortable with SQL (PostgreSQL, MySQL; with replication) and other data stores (Cassandra, S3). I dislike, but can cope with, painting on the screen (CSS, SVG). Very comfortable designing and building distributed systems (CAP, eventual consistency, MapReduce; Kafka, ZooKeeper, SNS, SQS, etc). I prefer a data-centric approach over OOP, and composable functions over design patterns.
 
 **I'm an ok security person.** I push security to the left naturally as a developer, and keep an eye on OWASP. I'm very mindful of resource starvation, user-generated content sanitization, and authorization trickery. I can do vendor surveying and respond to security questionnaires. I'm experienced with GDPR and HIPAA.
 
@@ -35,6 +35,7 @@ I want to work in an organization that values writting and documentation. I'd mu
 I'm looking for a place with a sense of urgency, but not stressed. That's a welcoming community, but not promiscuously intimate. That lets you experiment, but doesn't leave you alone. That celebrates failure and learning, but knows when to discipline and say goodbye. Where you can be you, but always feel there's a way to be better you.
 
 # Professional History
+
 ## Managing Partnet at Trust Fractal - May 2019 to May 2020
 
 TODO: fill me in.
@@ -53,7 +54,6 @@ From the contracting work I did myself, a representative sample woud be:
 * Maintained a React Native application and its Phoenix backend;
 * Built Rails app that interfaced with R, with HIPPA-compliant infra, codified using terraform and Saltstack;
 * Incident support: some clients would call us saying "this website is on fire, can you join this call and help us fix it?";
-* Plan and execute a subdomain (forum.site.com) to subpath (site.com/forum) migration;
 * Investigate and propose fixes for backend performance bottlenecks;
 * Write a WordPress plugin to sync entries from a table to blog posts;
 * Build a Baccarat game using Ethereum and state channels, with a web frontend;
