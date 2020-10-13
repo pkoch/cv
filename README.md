@@ -1,5 +1,5 @@
 # Paulo Köch
-Portuguese citizen, currently living in Porto. paulo.koch@gmail.com, +351 934 902 555, [https://github.com/pkoch/cv].
+Portuguese citizen, currently living in Porto. paulo.koch@gmail.com, +351 934 902 555, <https://github.com/pkoch/cv>.
 
 Hi there! 👋 I'm trying out a different approach to my CV/resumé. Instead of embarking you into a sea of titles and and keywords, I'd like to try a more prose-like approach. It won't be a letter, but it'll give me more space to shine through, we'll pre-wire a good chunk of the customary initial conversations, and (hopefully) be a break from the humdrum.
 
