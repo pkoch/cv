@@ -1,0 +1,18 @@
+{
+    "//MD025": "single-title/single-h1",
+    "MD025": false,
+
+    "//MD022": "blanks-around-headings/blanks-around-headers",
+    "MD022": false,
+
+    "//MD013": "line-length",
+    "MD013": false,
+
+    "//MD032" :"blanks-around-lists",
+    "MD032": false,
+
+    "//MD041": "first-line-heading/first-line-h1",
+    "MD041": false,
+
+    "//": "trailing commas, please"
+}
