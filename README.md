@@ -83,9 +83,5 @@ Oversaw, managed and developed various commercial web projects with teams from 3
 Guided the technological choices for each project. Performed preliminary requirement gathering and project scoping. Defined and implemented the internal information management systems.
 
 # Education
-
-## Certified Scrum Master – May 2010
-Lectured by Mitch Lacey.
-
-## MSc equivalent in Software Engineering – September 2002 to October 2007
-Licenciature in Informatics and Computer Engineering, Faculty of Engineering of the University of Porto, Portugal.
+* Certified Scrum Master, May 2010
+* MSc equivalent in Software Engineering (LEIC, FEUP), September 2002 to October 2007
