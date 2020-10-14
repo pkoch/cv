@@ -6,15 +6,22 @@ Looking for a technical leadership role with a medium team (~6 people) with some
 # Professional History
 
 ## Head of Engineering at Trust Fractal – May 2019 to May 2020
+**Oversaw a team (7 engineers)** on non-technical management duties. Redesigned the whole engineering workflow by **implementing Kanban across Product and Development** and isolating interruptions into their own flow. This lead developers to not feel like ticket-takers, to not be distracted by day-to-day needs, and product managers to feeling part of a predictable delivery cadence.
 
-TODO: fill me in.
+Designed and oversaw the implementation of a cross-microservice data system that **empowered everyone to build custom real-time reports** using PostgreSQL's **postgres_fdw**, while safeguarding user data by enforcing column-level security labeling. Implemented some features to cover spot engineering needs, and was **regularly consulted for infra**. Routinely automated recurring engineering problems (reports for vendors and partners, palliative measures, continuous deployment, etc).
 
-## Technical Project Manager/CTO at Fractal Launchpad – May 2018 to April 2019
-Responsible for the **technical delivery of multiple crypto fundraising events**, with up to 4 concurrent deliveries. Lifecycle went through kickoff, custom feature negotiation and implementation, **cross-company security coordination**, and deployment operation. These events had a high-security profile (**moving thousands of dollars and sensitive PII like passports**), very uncertain traffic (**anything from 0.1 to 100 req/s**), and unmoveable deadlines.
+Fielded **security** needs. Answered compliance questionnaires, produced security description documents, coordinated incident response procedures with vendors, checked in during design time and code review to spot problems early and spread awareness. Designed and implemented a cold storage system for crypto-asset stewardship.
 
-**Oversaw a small team (2 engineers + 1 project manager)**. Participated in product development (**React**/**Redux**, **Rails**, **PostgreSQL**). Sourced, coordinated with, and integrated work from contractors.
+Was part of the company's management board. Used my position to **reach out to unengaged or distressed employees** to offer emotional support and mentoring. Finding myself being less participative, stepped down to give way to leaner and more focused top management.
 
-Migrated infra setup from AWS Elastic Beanstalk to ECS, which **enabled a microservices architecture**. Reformulated all networking, logging, and alarms.
+## Technical Project Manager at Fractal Launchpad – May 2018 to April 2019
+Responsible for the **technical delivery of multiple crypto fundraising events**, with up to 4 concurrent deliveries. Lifecycle went through kickoff, custom feature negotiation and implementation, **security coordination**, deployment, and operation. These events had a high security profile (**moving thousands of dollars and sensitive PII like passports**), very uncertain traffic (**anything from 0.1 to 100 req/s**), and unmoveable deadlines.
+
+**Oversaw a small team (2 engineers + 1 project manager)**. Participated in custom feature development and lead a redesign effort (**React**/**Redux**, **Rails**, **PostgreSQL**). Sourced, coordinated with, and integrated work from contractors to suppress spurious labor needs.
+
+Migrated infra setup from AWS Elastic Beanstalk to **ECS**, which **enabled a microservices architecture**. Reformulated all networking, logging, and alarms.
+
+Actively participated in the parent company's management board, helping to **set direction and strategy** for both companies.
 
 ## Managing Partner at Life on Mars – September 2016 to May 2018
 Looking to explore a different way of doing engineering management, **I co-founded a company** focused on maximizing happiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development.
