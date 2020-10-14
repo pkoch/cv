@@ -10,8 +10,11 @@ Looking for a technical leadership role with a medium team (~6 people) with some
 TODO: fill me in.
 
 ## Technical Project Manager/CTO at Fractal Launchpad – May 2018 to April 2019
+Responsible for the **technical delivery of multiple crypto fundraising events**, with up to 4 concurrent deliveries. Lifecycle went through kickoff, custom feature negotiation and implementation, **cross-company security coordination**, and deployment operation. These events had a high-security profile (**moving thousands of dollars and sensitive PII like passports**), very uncertain traffic (**anything from 0.1 to 100 req/s**), and unmoveable deadlines.
 
-Migration from AWS Elastic Beanstalk to ECS.
+**Oversaw a small team (2 engineers + 1 project manager)**. Participated in product development (**React**/**Redux**, **Rails**, **PostgreSQL**). Sourced, coordinated with, and integrated work from contractors.
+
+Migrated infra setup from AWS Elastic Beanstalk to ECS, which **enabled a microservices architecture**. Reformulated all networking, logging, and alarms.
 
 ## Managing Partner at Life on Mars – September 2016 to May 2018
 Looking to explore a different way of doing engineering management, **I co-founded a company** focused on maximizing happiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development.
