@@ -1,8 +1,7 @@
 # Paulo Köch
 Portuguese citizen, currently living in Porto. paulo.koch@gmail.com, +351 934 902 555, <https://github.com/pkoch/cv>.
 
-# What I want next
-Technical leadership role with a medium team (~6 people) with some hands-on time (> 20%).
+Looking for a technical leadership role with a medium team (~6 people) with some hands-on time (> 20%).
 
 # Professional History
 
@@ -12,7 +11,7 @@ TODO: fill me in.
 
 ## Technical Project Manager/CTO at Fractal Launchpad - May 2018 to April 2019
 
-TODO: fill me in.
+Migration from AWS Elastic Beanstalk to ECS.
 
 ## Managing Partner at Life on Mars - September 2016 to May 2018
 Looking to explore a different way of doing engineering management, **I co-founded a company** focused on maximizing happiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development.
