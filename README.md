@@ -1,42 +1,12 @@
 # Paulo Köch
 Portuguese citizen, currently living in Porto. paulo.koch@gmail.com, +351 934 902 555, <https://github.com/pkoch/cv>.
 
-Hi there! 👋 I'm trying out a different approach to my CV/resumé. Instead of embarking you into a sea of titles and and keywords, I'd like to try a more prose-like approach. It won't be a letter, but it'll give me more space to shine through, we'll pre-wire a good chunk of the customary initial conversations, and (hopefully) be a break from the humdrum.
-
-It will be thorougher than usual, so don't be afraid to skip over any part that doesn't grab your attention. If you're in a rush, the [skill summary](#skill-summary) will suffice. If the classic CV experience is desired, **you can start at [professional history](#professional-history) and scan just for the bold parts**.
-
-# Skill summary
-**I have 5+ years of experience as an engineering manager.** I use processes (Scrum, Kanban) to set up baseline boundaries, let people explore, but keep herding them back to an effective trajectory, especially on scope. I give behavioural feedback as soon as possible. I do heartbeat-like technical check-ups (10 minutes every few days, depending on seniority/challenge, ideally async through code/doc reviews). I do 1:1s on larger cycle (between two weeks and a month). Super comfortable executing all other aspects (hiring, performance reviews, career progression, training, role and team structuring, etc).
-
-**I'm a seasoned web developer.** I feel most confortable on the backend (many years of experience with Ruby/Rails and Python/Django, and a few of microservices) but I'm also fond of front-end (a few years of bare Javacript and React). Comfortable with SQL (PostgreSQL, MySQL; with replication) and other data stores (Cassandra, S3). I dislike, but can cope with, painting on the screen (CSS, SVG). Very comfortable designing and building distributed systems (CAP, eventual consistency, MapReduce; Kafka, ZooKeeper, SNS, SQS, etc). I prefer a data-centric approach over OOP, and composable functions over design patterns.
-
-**I'm an ok security person.** I push security to the left naturally as a developer, and keep an eye on OWASP. I'm very mindful of resource starvation, user-generated content sanitization, and authorization trickery. I can do vendor surveying and respond to security questionnaires. I'm experienced with GDPR and HIPAA.
-
-**I'm a very comptent ops person.** I'm comfortable with networked Linux servers, especially on the cloud (AWS). I can provision (terraform), configure (Puppet, Saltstack), diagnose (strace, tcpdump), network (IP, TCP, routing, BGP), document (runbooks), be on call, and respond to incidents. I know my way around logs, monitoring, alarms, CI, CD (GitHub Actions, CircleCI, a bit of Jenkins), and clustering (Mesos, AWS's ECS).
-
-# Cover letter
-
-## Singing my own praises
-I’m a software engineer, a team leader, and a business executive. I love having ungated access to a problem that needs a system around it to automate value extraction.
-
-Programing is my favorite form of human expression. I love to obsess about the minutia of code ergonomics, imagining how APIs could be better split apart, spelunking in the hardware details that can give me a performance boost, making thousands of computers playing along towards some task, or learning about qubits and memristors.
-
-I enjoy leading teams and love nurturing humans. I empower others, create environments where they feel safe operating, maximize the examples they can feel proud of, limit distractions, and remind them it's ok to be human. Bonus points if I'm able to do this across the organization.
-
-Being an executive is how I connect it all. I like to have a firm grasp on how everyone’s incentives come together. This lets me have a clear picture of what makes whom move, equipping me to continually re-imagine how to deliver value and the steadfastness to execute with confidence in my trade-offs.
-
-My style trades initial speed for effectiveness. When I solve a problem, I understand it and solve it for good.
-
-## What I want next
-I'm looking for a technical leadership role with signification hands-on time (at least 20%). I love both code and caring for humans. I can go without one of them on the medium term (few years), but I'll eventually start to miss it. Right now, I'm missing code a lot. I have an interest in developer experience and tooling, especially at the AST level (e.g., linting, codemods, etc).
-
-I want to work in an organization that values writting and documentation. I'd much prefer a remote first company, since this issue becomes more pressing, but I'll take anyone that wants to invest in the compounding power of crisply writting down your reasoning and making it readily available.
-
-I'm looking for a place with a sense of urgency, but not stressed. That's a welcoming community, but not promiscuously intimate. That lets you experiment, but doesn't leave you alone. That celebrates failure and learning, but knows when to discipline and say goodbye. Where you can be you, but always feel there's a way to be better you.
+# What I want next
+Technical leadership role with a medium team (~6 people) with some hands-on time (> 20%).
 
 # Professional History
 
-## Managing Partnet at Trust Fractal - May 2019 to May 2020
+## Head of Engineering at Trust Fractal - May 2019 to May 2020
 
 TODO: fill me in.
 
@@ -45,25 +15,25 @@ TODO: fill me in.
 TODO: fill me in.
 
 ## Managing Partner at Life on Mars - September 2016 to May 2018
-Unhappy with the state of engineering management in the industry, **I've started a company** with a two friends with the goal of building the best engineering organization possible. We built a high-skill **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development. We focused our culture on openness, happiness, excellency, and trust.
+Looking to explore a different way of doing engineering management, **I've co-founded a company** with the goal of maximizing hapiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development.
 
 I filled three roles: engineering manager, infra person, and senior developer. **I was the only engineering manager**, so I defined and executed on all relevant concerns (hiring, performance reviews, career progression, 1:1s, training,  process definition, role and team struturing, etc) and provided support on most admin duties (finances, legal, processes, office, etc).
 
 From the contracting work I did myself, a representative sample woud be:
-* Built a **React**/**Redux** web frontend and its **Rails** backend;
-* Maintained a **React Native** application and its **Phoenix** backend;
-* Built **Rails** app that interfaced with R, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**;
-* **Incident support**: some clients would call us saying "this website is on fire, can you join this call and help us fix it?";
-* Investigate and propose **fixes for backend performance bottlenecks**;
-* Write a **WordPress plugin** to sync entries from a table to blog posts;
-* Build a Baccarat game using **Ethereum** and state channels, with a web frontend;
+* Built multiple **React**/**Redux** frontends and respective **Rails** backends
+* Oversaw and helped designing and building a trading card game with **React Native** and **Phoenix**
+* Designed and built a **WordPress plugin** to sync entries from an [Airtable](https://airtable.com/) table to blog posts
+* Built **Rails** app that interfaced with R for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
+* **Incident support**: some clients would call us saying "this website is on fire, can you join this call and help us fix it?"
+* Investigate and propose **fixes for backend performance bottlenecks**
+* Build a baccarat game using **Ethereum** and state channels, with a web frontend
 
-By February 2018 Fractal became our only client and he were **aquihired** by July 2018.
+By the start of 2018, Fractal became our best client and invited us to be **acquihired**, which we accepted.
 
 ## Software Engineer at Yelp – October 2013 to July 2016
-Full stack development and maintenance of features targeted at Yelp's business owners across the full breadth of a diverse technology stack (custom **JavaScript** framework, monolithic **Python** app, multiple **microservices**, **Mesos**, **MySQL**, **Cassandra**, **Kafka**, **SmartStack**, **mrjob**, many **AWS** services, etc). Contributed to modernizing legacy infrastructure, performance, logging, monitoring, and automated error recovery.
+Full stack development and maintenance of features targeted at Yelp's business owners across the full breadth of a diverse technology stack (custom **JavaScript** framework, monolithic **Python** app, multiple **microservices**, **Mesos**, **MySQL**, **Cassandra**, **Kafka**, **SmartStack**, many **AWS** services, etc). Contributed to modernizing legacy infrastructure, performance, logging, monitoring, and automated error recovery.
 
-**Lead a small team** that designed and implemented Yelp Preview, a sales tool which lets you preview how a specific business owner's back-office will look like, powering thousands of sales pitches per day. Due to its architectural planning, **it required only a few tens of men-hours in maintenance** since its introduction.
+**Lead a small team (3 people)** that designed and implemented Yelp Preview, a sales tool which lets you preview how a specific business owner's back-office will look like, used by 80% of sales reps, powering thousands of sales pitches per day. Due to its architectural planning, **it required only a few tens of engineering hours in maintenance** since its introduction.
 
 Worked on re-hauling the business owner's activity feed microservice, migrating from Gearman to Kafka and modernizing its clustering infra. **Helped trail blaze the introduction of Kafka company-wide**. Shaped and implemented tools and packages that became standard practice.
 
