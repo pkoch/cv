@@ -5,15 +5,15 @@ Looking for a technical leadership role with a medium team (~6 people) with some
 
 # Professional History
 
-## Head of Engineering at Trust Fractal - May 2019 to May 2020
+## Head of Engineering at Trust Fractal – May 2019 to May 2020
 
 TODO: fill me in.
 
-## Technical Project Manager/CTO at Fractal Launchpad - May 2018 to April 2019
+## Technical Project Manager/CTO at Fractal Launchpad – May 2018 to April 2019
 
 Migration from AWS Elastic Beanstalk to ECS.
 
-## Managing Partner at Life on Mars - September 2016 to May 2018
+## Managing Partner at Life on Mars – September 2016 to May 2018
 Looking to explore a different way of doing engineering management, **I co-founded a company** focused on maximizing happiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development.
 
 **I was the only engineering manager**, so I defined and executed all relevant concerns (hiring, 1:1s, training,  process definition, etc) and provided support on most admin duties (finances, legal, processes, office, etc).
@@ -21,7 +21,7 @@ Looking to explore a different way of doing engineering management, **I co-found
 I also did some infra and app development work. A representative sample would be:
 * Built multiple **React**/**Redux** frontends and respective **Rails** or **Phoenix** backends
 * Oversaw and helped designing and building a trading card game with **React Native** and **Phoenix**
-* Designed and built a **WordPress plugin** to sync entries from a no-code tools to blog posts
+* Designed and built a **WordPress plugin** to sync entries from a no-code tool to blog posts
 * Built **Rails** app for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
 * **Incident support**: some clients called us saying "this website is on fire, can you join this call and help us fix it?"
 * Investigated and proposed **fixes for backend performance bottlenecks**
@@ -81,8 +81,8 @@ Guided the technological choices for each project. Performed preliminary require
 
 # Education
 
-## Certified Scrum Master - May 2010
-Lectured by Mitch Lacey in Porto, Portugal.
+# Certified Scrum Master – May 2010
+Lectured by Mitch Lacey.
 
-## Licenciature (MSc equivalent) in Informatics and Computer Engineering, Faculty of Engineering of the University of Porto, Portugal – September 2002 to October 2007
-5-year program, including a 6-month internship, on software engineering, software architecture, algorithms & data structures, project management, development methodologies, databases, etc. Classification: 14 out of 20
+# MSc equivalent in Software Engineering – September 2002 to October 2007
+Licenciature in Informatics and Computer Engineering, Faculty of Engineering of the University of Porto, Portugal.
