@@ -33,8 +33,6 @@ Maintained a customization automation tool in C# for mass ROM and SD card flashi
 Used **reverse engineering** (IDA Pro) to perform several aggressive system integrations and OS customizations.
 
 ## Head of Software Development at JuniFEUP – October 2005 to February 2006
-Equivalent to Project Manager, CTO, and CIO.
-
 Oversaw, managed and developed various commercial web projects with teams from 3 to 7 people using PHP/Rails and MySQL.
 
 Guided the technological choices for each project. Performed preliminary requirement gathering and project scoping. Defined and implemented the internal information management systems.
