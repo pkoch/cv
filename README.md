@@ -21,7 +21,7 @@ Looking to explore a different way of doing engineering management, **I co-found
 I also did some infra and app development work. A representative sample would be:
 * Built multiple **React**/**Redux** frontends and respective **Rails** or **Phoenix** backends
 * Oversaw and helped designing and building a trading card game with **React Native** and **Phoenix**
-* Designed and built a **WordPress plugin** to sync entries from an [Airtable](https://airtable.com/) table to blog posts
+* Designed and built a **WordPress plugin** to sync entries from a no-code tools to blog posts
 * Built **Rails** app that interfaced with R for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
 * **Incident support**: some clients would call us saying "this website is on fire, can you join this call and help us fix it?"
 * Investigate and propose **fixes for backend performance bottlenecks**
