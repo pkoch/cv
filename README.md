@@ -1,7 +1,7 @@
 # Paulo Köch
-Portuguese citizen. Currently living in Porto. paulo.koch@gmail.com, +351 934 902 555.
+Portuguese citizen, living in Porto. paulo.koch@gmail.com, +351 934 902 555. <https://www.linkedin.com/in/pkoch/>
 
-Looking for a technical leadership role with a medium team (~6 people) with some hands-on time (> 20%).
+Hi there! 👋 This CV iteration has a prose-like approach. For the classic CV experience, **scan just the bold parts**.
 
 # Professional History
 
@@ -50,7 +50,7 @@ Worked on the Yelp Platform, an online ordering brokerage system. Implemented mo
 
 **Spontaneously took ownership of legacy systems' issues**, with interventions including subsystem re-writes that spanned several quarters. Contributed many improvements to cross-organizational infrastructure and release tools, from a 90% reduction of dropped connections during some microservice deployments to building a tool to fully automate test failures triage (going from a painful 5 minutes of ticket hunting to 1 CLI call for the whole run).
 
-Older history is on LinkedIn: https://www.linkedin.com/in/pkoch/
+Older history is on [another page](older_history.md).
 
 # Education
 * Certified Scrum Master, May 2010
