@@ -22,12 +22,12 @@ I also did some infra and app development work. A representative sample would be
 * Built multiple **React**/**Redux** frontends and respective **Rails** or **Phoenix** backends
 * Oversaw and helped designing and building a trading card game with **React Native** and **Phoenix**
 * Designed and built a **WordPress plugin** to sync entries from a no-code tools to blog posts
-* Built **Rails** app that interfaced with R for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
-* **Incident support**: some clients would call us saying "this website is on fire, can you join this call and help us fix it?"
-* Investigate and propose **fixes for backend performance bottlenecks**
-* Build a baccarat game using **Ethereum** and state channels, with a web frontend
+* Built **Rails** app for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
+* **Incident support**: some clients called us saying "this website is on fire, can you join this call and help us fix it?"
+* Investigated and proposed **fixes for backend performance bottlenecks**
+* Built a baccarat game using **Ethereum** and state channels, with a web frontend
 
-By the start of 2018, Fractal became our best client and invited us to be **acquihired**, which we accepted.
+In early 2018, Fractal became our biggest client and invited us to be **acquihired**, which we accepted.
 
 ## Software Engineer at Yelp – October 2013 to July 2016
 Full-stack development of features targeted at Yelp's business owners across the full breadth of a diverse technology stack (custom **JavaScript** framework, monolithic **Python** app, multiple **microservices**, **Mesos**, **MySQL**, **Kafka**, many **AWS** services, etc). Contributed to modernizing legacy infrastructure, performance, logging, monitoring, and automated error recovery.
