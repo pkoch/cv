@@ -17,10 +17,10 @@ TODO: fill me in.
 ## Managing Partner at Life on Mars - September 2016 to May 2018
 Looking to explore a different way of doing engineering management, **I've co-founded a company** with the goal of maximizing hapiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)** with some peripheral investments in product development.
 
-I filled three roles: engineering manager, infra person, and senior developer. **I was the only engineering manager**, so I defined and executed on all relevant concerns (hiring, performance reviews, career progression, 1:1s, training,  process definition, role and team struturing, etc) and provided support on most admin duties (finances, legal, processes, office, etc).
+**I was the only engineering manager**, so I defined and executed on all relevant concerns (hiring, performance reviews, career progression, 1:1s, training,  process definition, role and team struturing, etc) and provided support on most admin duties (finances, legal, processes, office, etc).
 
-From the contracting work I did myself, a representative sample woud be:
-* Built multiple **React**/**Redux** frontends and respective **Rails** backends
+I also did some infra and app development work. A representative sample woud be:
+* Built multiple **React**/**Redux** frontends and respective **Rails** or **Phoenix** backends
 * Oversaw and helped designing and building a trading card game with **React Native** and **Phoenix**
 * Designed and built a **WordPress plugin** to sync entries from an [Airtable](https://airtable.com/) table to blog posts
 * Built **Rails** app that interfaced with R for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
