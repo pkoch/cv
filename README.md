@@ -84,8 +84,8 @@ Guided the technological choices for each project. Performed preliminary require
 
 # Education
 
-# Certified Scrum Master – May 2010
+## Certified Scrum Master – May 2010
 Lectured by Mitch Lacey.
 
-# MSc equivalent in Software Engineering – September 2002 to October 2007
+## MSc equivalent in Software Engineering – September 2002 to October 2007
 Licenciature in Informatics and Computer Engineering, Faculty of Engineering of the University of Porto, Portugal.
