@@ -8,7 +8,7 @@ Looking for a technical leadership role with a medium team (~6 people) with some
 ## Head of Engineering at Trust Fractal – May 2019 to May 2020
 **Oversaw a team (7 engineers)** on non-technical management duties. Redesigned the whole engineering workflow by **implementing Kanban across Product and Development** and isolating interruptions into their own flow. This lead developers to not feel like ticket-takers, to not be distracted by day-to-day needs, and product managers to feeling part of a predictable delivery cadence.
 
-Designed and oversaw the implementation of a cross-microservice data system that **empowered everyone to build custom real-time reports** using PostgreSQL's **postgres_fdw**, while safeguarding user data by enforcing column-level security labeling. Implemented some features to cover spot engineering needs, and was **regularly consulted for infra**. Routinely automated recurring engineering problems (reports for vendors and partners, palliative measures, continuous deployment, etc).
+Designed and oversaw the implementation of a cross-microservice data system that **empowered everyone to build custom real-time reports** using PostgreSQL's **postgres_fdw**, while safeguarding user data by enforcing column-level sensitivity labeling. Implemented some features to cover spot engineering needs, and was **regularly consulted for infra**. Routinely automated recurring engineering problems (reports for vendors and partners, palliative measures, continuous deployment, etc).
 
 Fielded **security** needs. Answered compliance questionnaires, produced security description documents, coordinated incident response procedures with vendors, checked in during design time and code review to spot problems early and spread awareness. Designed and implemented a cold storage system for crypto-asset stewardship.
 
@@ -32,7 +32,7 @@ I also did some infra and app development work. A representative sample would be
 * Built multiple **React**/**Redux** frontends and respective **Rails** or **Phoenix** backends
 * Oversaw and helped designing and building a trading card game with **React Native** and **Phoenix**
 * Designed and built a **WordPress plugin** to sync entries from a no-code tool to blog posts
-* Built **Rails** app for ALS patient prognosis, with **HIPPA-compliant infra**, codified using **terraform** and **Saltstack**
+* Built **Rails** app for ALS patient prognosis, with **HIPAA-compliant infra**, codified using **terraform** and **Saltstack**
 * **Incident support**: some clients called us saying "this website is on fire, can you join this call and help us fix it?"
 * Investigated and proposed **fixes for backend performance bottlenecks**
 * Built a baccarat game using **Ethereum** and state channels, with a web frontend
