@@ -6,7 +6,7 @@ Portuguese citizen, living in Porto. paulo.koch@gmail.com, +351 934 902 555. <ht
 
 **Kept my hands dirty** about 33% of the time. Designed and oversaw the implementation of a cross-microservice data system that **empowered everyone to build custom real-time reports** while safeguarding user data by enforcing column-level sensitivity labeling. Implemented both backend and frontend features. Regularly **advised on infrastructure** issues. Automated recurring engineering problems that didn’t fit in the roadmap (reports for vendors and partners, palliative measures, etc).
 
-**Acted as interimn Cheif Security Officer**. Kept security standards well balanced, kept known threats catalogued, coordinated with other financial institutions, aligned incident response procedures with vendors. Implemented a cold storage system for crypto-asset stewardship.
+**Acted as interim Chief Security Officer**. Kept security standards well balanced, kept known threats catalogued, coordinated with other financial institutions, aligned incident response procedures with vendors. Implemented a cold storage system for crypto-asset stewardship.
 
 Part of executive management. Used my position to **reach out to unengaged or distressed employees in distant parts of the company** to offer emotional support and mentoring. Finding myself less participative, I stepped down to encourage a more focused executive team.
 
