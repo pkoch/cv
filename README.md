@@ -1,21 +1,21 @@
 # Paulo Köch
 Portuguese citizen, living in Porto. paulo.koch@gmail.com, +351 934 902 555. <https://www.linkedin.com/in/pkoch/>
 
-## Head of Engineering at Trust Fractal – 2019 to 2020
+## Head of Engineering at Fractal – 2019 to 2020
 **Managed a team of 7 engineers**. Redesigned engineering's workflow by **implementing Kanban across Product and Development** and isolating interruptions into their own flow. This made developers be more than ticket-takers, neutralized distractions, and created a consistent delivery cadence.
 
-Designed and oversaw the implementation of a cross-microservice data system that **empowered everyone to build custom real-time reports** using PostgreSQL's **postgres_fdw**, while safeguarding user data by enforcing column-level sensitivity labeling. **Implemented features** to reinforce engineering capacity. Regularly **advised on infrastructure** issues. Automated recurring engineering problems that didn’t fit in the roadmap (reports for vendors and partners, palliative measures, etc).
+**Kept my hands dirty** about 33% of the time. Designed and oversaw the implementation of a cross-microservice data system that **empowered everyone to build custom real-time reports** while safeguarding user data by enforcing column-level sensitivity labeling. Implemented both backend and frontend features. Regularly **advised on infrastructure** issues. Automated recurring engineering problems that didn’t fit in the roadmap (reports for vendors and partners, palliative measures, etc).
 
-**Kept security standards well balanced**, kept known threats catalogued, coordinated with other financial institutions, aligned incident response procedures with vendors. Implemented a cold storage system for crypto-asset stewardship.
+**Acted as interimn Cheif Security Officer**. Kept security standards well balanced, kept known threats catalogued, coordinated with other financial institutions, aligned incident response procedures with vendors. Implemented a cold storage system for crypto-asset stewardship.
 
-Part of top management. Used my position to **reach out to unengaged or distressed employees** to offer emotional support and mentoring. Finding myself less participative, I stepped down to encourage a more focused team.
+Part of executive management. Used my position to **reach out to unengaged or distressed employees in distant parts of the company** to offer emotional support and mentoring. Finding myself less participative, I stepped down to encourage a more focused executive team.
 
-## Technical Project Manager at Fractal Launchpad – 2018 to 2019
+## Technical Project Manager at Fractal – 2018 to 2019
 **Delivered the technical part of multiple crypto fundraising events**. Coordinated security measures, **negotiated customization scope**, oversaw implementation and operation. These events had a high security profile (**moving thousands of dollars and sensitive PII**), uncertain traffic (**anything from 0.1 to 100 req/s**), and strict deadlines.
 
 **Oversaw a small team (2 engineers + 1 project manager)**. Implemented custom features (**React**/**Redux**, **Rails**, **PostgreSQL**) and led a redesign effort. Sourced, coordinated with, and integrated work from contractors. **Enabled a microservices architecture** by migrating from AWS Elastic Beanstalk to **ECS**. Reformulated networking, logs, alarms, etc.
 
-Part of top management where, together with other managers, I **set direction and strategy** for both companies.
+Part of executive management where, together with other managers, I **set direction and strategy** for the company.
 
 ## Managing Partner at Life on Mars – 2016 to 2018
 Looking to explore a different way of doing engineering management, **I co-founded a company** focused on maximizing happiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)**.
