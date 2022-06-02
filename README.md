@@ -1,5 +1,5 @@
 # Paulo Köch
-Portuguese citizen, living in Porto. paulo.koch@gmail.com, +351 934 902 555. <https://www.linkedin.com/in/pkoch/>
+Portuguese citizen, living in Porto. hi@pko.ch, +351 934 902 555. <https://www.linkedin.com/in/pkoch/>
 
 ## Head of Engineering at Fractal – 2019 to 2020
 **Managed a team of 7 engineers**. Redesigned engineering's workflow by **implementing Kanban across Product and Development** and isolating interruptions into their own flow. This made developers be more than ticket-takers, neutralized distractions, and created a consistent delivery cadence.
