@@ -1,4 +1,4 @@
-I'm a software business executive. I love having direct access to a problem and lead a team to be build a system around it to automate value extraction.
+I'm a software business executive. I've co-founded a company and participated in top level management at startups. I love having direct access to a problem and lead a team to be build a system around it to automate value extraction.
 
 I have 5+ years of experience as an engineering manager. I use processes (Scrum, Kanban) to set up baseline boundaries, let people explore, but keep herding them back to an effective trajectory, especially on scope. I give behavioural feedback as soon as possible. I do heartbeat-like technical check-ups (10 minutes every few days, depending on seniority/challenge, ideally async through code/doc reviews). I do 1:1s on larger cycle (between two weeks and a month). Super comfortable executing all other aspects (hiring, performance reviews, career progression, training, role and team structuring, etc).
 
