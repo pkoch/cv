@@ -1,6 +1,8 @@
 # Paulo Köch
 Portuguese citizen, living in Porto. hi@pko.ch, +351 934 902 555. <https://www.linkedin.com/in/pkoch/>
 
+Be sure to check my [prose-like overview](overview.md), if you prefer that.
+
 ## Head of Backend at Doist – 2021 to 2022
 
 **Managed a team of 7 engineers**. Redesigned team's workflow to make all work known, discoverable, and its priority agreed upon by all stakeholders. Made the team's interface with the rest of the company simple and well-known, work planning went from closed-room black-box to 100% open and its trade-offs understood by everyone.
