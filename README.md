@@ -21,6 +21,7 @@ Part of executive management where, together with other managers, I **set direct
 Looking to explore a different way of doing engineering management, **I co-founded a company** focused on maximizing happiness, openness, and skill. We built a high-talent **small software agency (of 6 engineers and 1 admin)**.
 
 **Managed all 6 engineers** and did development work. A representative sample would be:
+
 * Built multiple **React**/**Redux** frontends and respective **Rails** or **Phoenix** backends
 * Designed and built a **WordPress plugin** to sync entries from a no-code tool to blog posts
 * Built **Rails** app for ALS patient prognosis, with **HIPAA-compliant infra**, codified using **Terraform** and **SaltStack**
