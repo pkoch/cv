@@ -3,6 +3,7 @@ Portuguese citizen, living in Porto. <hi@pko.ch>, +351 934 902 555, [linkedin.co
 
 <!-- pdf-sed: begin delete -->
 Be sure to check my [prose-like overview](overview.md), if you prefer that.
+I also have a [PDF version with it](https://github.com/pkoch/cv/raw/main/latest.pdf).
 <!-- pdf-sed: end delete -->
 <!-- pdf-sed: exec # cat overview.md # -->
 
