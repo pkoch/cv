@@ -1,4 +1,4 @@
-# Older professional History
+# Older professional history
 
 ## Independent Software Contractor – January 2012 to July 2013
 movercado.org: Designed and implemented an SMS-handling workflow system in **Rails** and **PostgreSQL**. Helped to bootstrap the team that continued the project.
