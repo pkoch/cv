@@ -1,0 +1,24 @@
+name: "Generate PDF"
+
+on:
+  push:
+    branches:
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - run: ./generate_pdf.sh
+
+      - name: Commit and push
+        run: |
+          git config --global user.email "github-action@pko.ch"
+          git config --global user.name "pkoch's GitHub Action"
+
+          git add -f latest.pdf
+          git commit -m "Generate PDF"
+          git push

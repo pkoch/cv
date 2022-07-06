@@ -1,7 +1,10 @@
 # Paulo Köch
 Portuguese citizen, living in Porto. <hi@pko.ch>, +351 934 902 555, <https://www.linkedin.com/in/pkoch/>.
 
+<!-- pdf-sed: begin delete -->
 Be sure to check my [prose-like overview](overview.md), if you prefer that.
+<!-- pdf-sed: end delete -->
+<!-- pdf-sed: exec # cat overview.md # -->
 
 ## Head of Backend at Doist – 2021 to 2022
 
@@ -49,7 +52,10 @@ Worked on the Yelp Transaction Platform, an online ordering brokerage system. Im
 
 **Spontaneously took ownership of legacy systems' issues**, including subsystem re-writes that spanned several quarters. Many contributions to infra and release tools, from a 90% reduction in dropped connections during some deployments to test failure triage automation (going from 5 painful minutes of ticket hunting to 1 CLI call).
 
+<!-- pdf-sed: begin delete -->
 Older history is on [another page](older_history.md).
+<!-- pdf-sed: end delete -->
+<!-- pdf-sed: exec # echo 'Older history on [LinkedIn](https://www.linkedin.com/in/pkoch/).' # -->
 
 ### Education
 * Certified Scrum Master
