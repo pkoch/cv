@@ -1,4 +1,4 @@
-# Paulo Köch
+# Paulo Koch
 Portuguese citizen, living in Porto. <hi@pko.ch>, +351 934 902 555, [linkedin.com/in/pkoch](https://www.linkedin.com/in/pkoch/).
 
 <!-- pdf-sed: begin delete -->
